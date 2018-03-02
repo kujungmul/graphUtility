@@ -1,0 +1,135 @@
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._10._maxc._100/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.382323
+Other measures:
+  lfkNMI:	0.4046
+  NMI<Sum>:	0.423952
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._10._maxc._100/network_spliter_100_algo_spinglass_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.131189
+Other measures:
+  lfkNMI:	0.136766
+  NMI<Sum>:	0.153658
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._10._maxc._100/network_spliter_100_algo_fastgreedy_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.200848
+Other measures:
+  lfkNMI:	0.336425
+  NMI<Sum>:	0.232003
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._10._maxc._200/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.596836
+Other measures:
+  lfkNMI:	0.577329
+  NMI<Sum>:	0.636308
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._10._maxc._200/network_spliter_100_algo_spinglass_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.370781
+Other measures:
+  lfkNMI:	0.344065
+  NMI<Sum>:	0.414206
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._10._maxc._200/network_spliter_100_algo_fastgreedy_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.41655
+Other measures:
+  lfkNMI:	0.455238
+  NMI<Sum>:	0.458674
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._10._maxc._50/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.0783207
+Other measures:
+  lfkNMI:	0.116963
+  NMI<Sum>:	0.0909966
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._10._maxc._50/network_spliter_100_algo_leadingeigen_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.0806011
+Other measures:
+  lfkNMI:	0.196279
+  NMI<Sum>:	0.0862451
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._10._maxc._50/network_spliter_100_algo_fastgreedy_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.067562
+Other measures:
+  lfkNMI:	0.165346
+  NMI<Sum>:	0.0817075
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._20._maxc._100/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.45373
+Other measures:
+  lfkNMI:	0.507291
+  NMI<Sum>:	0.495551
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._20._maxc._100/network_spliter_100_algo_leadingeigen_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.0644393
+Other measures:
+  lfkNMI:	0.177232
+  NMI<Sum>:	0.0775541
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._20._maxc._100/network_spliter_100_algo_fastgreedy_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.173648
+Other measures:
+  lfkNMI:	0.319514
+  NMI<Sum>:	0.201021
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._20._maxc._200/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.559938
+Other measures:
+  lfkNMI:	0.549322
+  NMI<Sum>:	0.596993
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._20._maxc._200/network_spliter_100_algo_leadingeigen_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.105994
+Other measures:
+  lfkNMI:	0.18522
+  NMI<Sum>:	0.118723
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._20._maxc._200/network_spliter_100_algo_fastgreedy_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.357838
+Other measures:
+  lfkNMI:	0.416175
+  NMI<Sum>:	0.401324
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._20._maxc._50/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.100173
+Other measures:
+  lfkNMI:	0.159813
+  NMI<Sum>:	0.11562
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._20._maxc._50/network_spliter_100_algo_leadingeigen_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.0318547
+Other measures:
+  lfkNMI:	0.0734586
+  NMI<Sum>:	0.0370719
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._20._maxc._50/network_spliter_100_algo_fastgreedy_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.062307
+Other measures:
+  lfkNMI:	0.169724
+  NMI<Sum>:	0.0752967
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._30._maxc._100/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.488487
+Other measures:
+  lfkNMI:	0.558688
+  NMI<Sum>:	0.53121
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._30._maxc._100/network_spliter_100_algo_leadingeigen_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.1167
+Other measures:
+  lfkNMI:	0.232362
+  NMI<Sum>:	0.150313
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._30._maxc._100/network_spliter_100_algo_fastgreedy_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.268539
+Other measures:
+  lfkNMI:	0.41169
+  NMI<Sum>:	0.303
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._30._maxc._200/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.679562
+Other measures:
+  lfkNMI:	0.687485
+  NMI<Sum>:	0.712644
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._30._maxc._200/network_spliter_100_algo_leadingeigen_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.0534337
+Other measures:
+  lfkNMI:	0.0553815
+  NMI<Sum>:	0.0747023
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._30._maxc._200/network_spliter_100_algo_fastgreedy_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.399312
+Other measures:
+  lfkNMI:	0.442424
+  NMI<Sum>:	0.443123
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._30._maxc._50/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.122382
+Other measures:
+  lfkNMI:	0.193075
+  NMI<Sum>:	0.139456
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._30._maxc._50/network_spliter_100_algo_leadingeigen_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.122711
+Other measures:
+  lfkNMI:	0.210023
+  NMI<Sum>:	0.132087
+/home/rk2tcpl/benchmarkDataSet/HOON_14-TEMP/[HOON-14-TEMP-3]N_5000._degree._10._maxdegree._100._mu._0.1._on._500._om._2._minc._30._maxc._50/network_spliter_100_algo_fastgreedy_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.0815488
+Other measures:
+  lfkNMI:	0.194593
+  NMI<Sum>:	0.0975713

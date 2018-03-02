@@ -1,0 +1,2205 @@
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.25.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.65.dat
+NMI<Max>:	0.65169
+Other measures:
+  lfkNMI:	0.616533
+  NMI<Sum>:	0.688035
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.55.dat
+NMI<Max>:	0.634044
+Other measures:
+  lfkNMI:	0.607242
+  NMI<Sum>:	0.673207
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.85.dat
+NMI<Max>:	0.649257
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.683191
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.25.dat
+NMI<Max>:	0.651044
+Other measures:
+  lfkNMI:	0.61488
+  NMI<Sum>:	0.686361
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.15.dat
+NMI<Max>:	0.651641
+Other measures:
+  lfkNMI:	0.616363
+  NMI<Sum>:	0.687877
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.45.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.45.dat
+NMI<Max>:	0.647249
+Other measures:
+  lfkNMI:	0.615353
+  NMI<Sum>:	0.684743
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.7.dat
+NMI<Max>:	0.642641
+Other measures:
+  lfkNMI:	0.611715
+  NMI<Sum>:	0.680368
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.65.dat
+NMI<Max>:	0.629669
+Other measures:
+  lfkNMI:	0.60455
+  NMI<Sum>:	0.669376
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.25.dat
+NMI<Max>:	0.637082
+Other measures:
+  lfkNMI:	0.608794
+  NMI<Sum>:	0.675752
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.35.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.8.dat
+NMI<Max>:	0.634009
+Other measures:
+  lfkNMI:	0.607181
+  NMI<Sum>:	0.673175
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.4.dat
+NMI<Max>:	0.634009
+Other measures:
+  lfkNMI:	0.607181
+  NMI<Sum>:	0.673175
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.3.dat
+NMI<Max>:	0.63614
+Other measures:
+  lfkNMI:	0.589148
+  NMI<Sum>:	0.661096
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.9.dat
+NMI<Max>:	0.629654
+Other measures:
+  lfkNMI:	0.604757
+  NMI<Sum>:	0.669352
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.0.dat
+NMI<Max>:	0.651666
+Other measures:
+  lfkNMI:	0.61651
+  NMI<Sum>:	0.68797
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.95.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_1.0.dat
+NMI<Max>:	0.611212
+Other measures:
+  lfkNMI:	0.580075
+  NMI<Sum>:	0.644987
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.5.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.5.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.15.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.1.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.0.dat
+NMI<Max>:	0.647249
+Other measures:
+  lfkNMI:	0.615353
+  NMI<Sum>:	0.684743
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_1.0.dat
+NMI<Max>:	0.617726
+Other measures:
+  lfkNMI:	0.595897
+  NMI<Sum>:	0.659669
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.7.dat
+NMI<Max>:	0.648051
+Other measures:
+  lfkNMI:	0.609394
+  NMI<Sum>:	0.680885
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.6.dat
+NMI<Max>:	0.65169
+Other measures:
+  lfkNMI:	0.616533
+  NMI<Sum>:	0.688035
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.3.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.65.dat
+NMI<Max>:	0.368828
+Other measures:
+  lfkNMI:	0.378786
+  NMI<Sum>:	0.412553
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.8.dat
+NMI<Max>:	0.648426
+Other measures:
+  lfkNMI:	0.61577
+  NMI<Sum>:	0.685719
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.0.dat
+NMI<Max>:	0.629669
+Other measures:
+  lfkNMI:	0.60455
+  NMI<Sum>:	0.669376
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_1.0.dat
+NMI<Max>:	0.606815
+Other measures:
+  lfkNMI:	0.59001
+  NMI<Sum>:	0.650524
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.6.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.8.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.05.dat
+NMI<Max>:	0.637082
+Other measures:
+  lfkNMI:	0.608794
+  NMI<Sum>:	0.675752
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.15.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.45.dat
+NMI<Max>:	0.636959
+Other measures:
+  lfkNMI:	0.608744
+  NMI<Sum>:	0.675644
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.6.dat
+NMI<Max>:	0.651205
+Other measures:
+  lfkNMI:	0.615361
+  NMI<Sum>:	0.686905
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.7.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.45.dat
+NMI<Max>:	0.496922
+Other measures:
+  lfkNMI:	0.475639
+  NMI<Sum>:	0.521032
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.75.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.5.dat
+NMI<Max>:	0.651659
+Other measures:
+  lfkNMI:	0.616444
+  NMI<Sum>:	0.687927
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_1.0.dat
+NMI<Max>:	0.621628
+Other measures:
+  lfkNMI:	0.596991
+  NMI<Sum>:	0.662649
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.85.dat
+NMI<Max>:	0.642927
+Other measures:
+  lfkNMI:	0.612056
+  NMI<Sum>:	0.680617
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.85.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.3.dat
+NMI<Max>:	0.629493
+Other measures:
+  lfkNMI:	0.604467
+  NMI<Sum>:	0.669211
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.3.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.75.dat
+NMI<Max>:	0.64407
+Other measures:
+  lfkNMI:	0.60326
+  NMI<Sum>:	0.674143
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.5.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.35.dat
+NMI<Max>:	0.651641
+Other measures:
+  lfkNMI:	0.616363
+  NMI<Sum>:	0.687877
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.5.dat
+NMI<Max>:	0.636959
+Other measures:
+  lfkNMI:	0.608744
+  NMI<Sum>:	0.675644
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.95.dat
+NMI<Max>:	0.615425
+Other measures:
+  lfkNMI:	0.596565
+  NMI<Sum>:	0.657361
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.15.dat
+NMI<Max>:	0.634009
+Other measures:
+  lfkNMI:	0.607181
+  NMI<Sum>:	0.673175
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.6.dat
+NMI<Max>:	0.636891
+Other measures:
+  lfkNMI:	0.608701
+  NMI<Sum>:	0.675593
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.9.dat
+NMI<Max>:	0.65199
+Other measures:
+  lfkNMI:	0.616103
+  NMI<Sum>:	0.68796
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.0.dat
+NMI<Max>:	0.641193
+Other measures:
+  lfkNMI:	0.611036
+  NMI<Sum>:	0.679209
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.05.dat
+NMI<Max>:	0.651152
+Other measures:
+  lfkNMI:	0.615238
+  NMI<Sum>:	0.68675
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.7.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.95.dat
+NMI<Max>:	0.637379
+Other measures:
+  lfkNMI:	0.60918
+  NMI<Sum>:	0.676015
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.7.dat
+NMI<Max>:	0.0827733
+Other measures:
+  lfkNMI:	0.0828789
+  NMI<Sum>:	0.110776
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.4.dat
+NMI<Max>:	0.629493
+Other measures:
+  lfkNMI:	0.604467
+  NMI<Sum>:	0.669211
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.9.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.1.dat
+NMI<Max>:	0.651152
+Other measures:
+  lfkNMI:	0.615238
+  NMI<Sum>:	0.68675
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.8.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.0.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.6.dat
+NMI<Max>:	0.622276
+Other measures:
+  lfkNMI:	0.567702
+  NMI<Sum>:	0.637528
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.4.dat
+NMI<Max>:	0.642765
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.680478
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.85.dat
+NMI<Max>:	0.637235
+Other measures:
+  lfkNMI:	0.609075
+  NMI<Sum>:	0.675865
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.75.dat
+NMI<Max>:	0.625249
+Other measures:
+  lfkNMI:	0.602361
+  NMI<Sum>:	0.665622
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.05.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.1.dat
+NMI<Max>:	0.637082
+Other measures:
+  lfkNMI:	0.608794
+  NMI<Sum>:	0.675752
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.35.dat
+NMI<Max>:	0.649296
+Other measures:
+  lfkNMI:	0.60955
+  NMI<Sum>:	0.682085
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.35.dat
+NMI<Max>:	0.629493
+Other measures:
+  lfkNMI:	0.604467
+  NMI<Sum>:	0.669211
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.2.dat
+NMI<Max>:	0.651641
+Other measures:
+  lfkNMI:	0.616363
+  NMI<Sum>:	0.687877
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.45.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.4.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.0.dat
+NMI<Max>:	0.634321
+Other measures:
+  lfkNMI:	0.60741
+  NMI<Sum>:	0.673456
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.0.dat
+NMI<Max>:	0.642818
+Other measures:
+  lfkNMI:	0.599476
+  NMI<Sum>:	0.671876
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.95.dat
+NMI<Max>:	0.621986
+Other measures:
+  lfkNMI:	0.600466
+  NMI<Sum>:	0.662929
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.9.dat
+NMI<Max>:	0.651347
+Other measures:
+  lfkNMI:	0.614778
+  NMI<Sum>:	0.686666
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.8.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.4.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.1.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.25.dat
+NMI<Max>:	0.629493
+Other measures:
+  lfkNMI:	0.604467
+  NMI<Sum>:	0.669211
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.9.dat
+NMI<Max>:	0.644839
+Other measures:
+  lfkNMI:	0.604343
+  NMI<Sum>:	0.675517
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.35.dat
+NMI<Max>:	0.641038
+Other measures:
+  lfkNMI:	0.610932
+  NMI<Sum>:	0.679097
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.2.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.1.dat
+NMI<Max>:	0.641038
+Other measures:
+  lfkNMI:	0.610932
+  NMI<Sum>:	0.679097
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.0.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.5.dat
+NMI<Max>:	0.649557
+Other measures:
+  lfkNMI:	0.61107
+  NMI<Sum>:	0.682974
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.15.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.45.dat
+NMI<Max>:	0.641091
+Other measures:
+  lfkNMI:	0.611016
+  NMI<Sum>:	0.679148
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.45.dat
+NMI<Max>:	0.0051338
+Other measures:
+  lfkNMI:	0.0119378
+  NMI<Sum>:	0.0080143
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.8.dat
+NMI<Max>:	0.651968
+Other measures:
+  lfkNMI:	0.617345
+  NMI<Sum>:	0.688589
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.7.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.1.dat
+NMI<Max>:	0.649602
+Other measures:
+  lfkNMI:	0.610321
+  NMI<Sum>:	0.682979
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.15.dat
+NMI<Max>:	0.00658962
+Other measures:
+  lfkNMI:	0.020665
+  NMI<Sum>:	0.0110359
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.3.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.2.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.25.dat
+NMI<Max>:	0.651641
+Other measures:
+  lfkNMI:	0.616363
+  NMI<Sum>:	0.687877
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.45.dat
+NMI<Max>:	0.649816
+Other measures:
+  lfkNMI:	0.611606
+  NMI<Sum>:	0.683403
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.5.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.6.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.45.dat
+NMI<Max>:	0.651152
+Other measures:
+  lfkNMI:	0.615238
+  NMI<Sum>:	0.68675
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.1.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.25.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.8.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.6.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.65.dat
+NMI<Max>:	0.651205
+Other measures:
+  lfkNMI:	0.615361
+  NMI<Sum>:	0.686905
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.05.dat
+NMI<Max>:	0.00654115
+Other measures:
+  lfkNMI:	0.0207209
+  NMI<Sum>:	0.010925
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.75.dat
+NMI<Max>:	0.651903
+Other measures:
+  lfkNMI:	0.616973
+  NMI<Sum>:	0.688282
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.8.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.05.dat
+NMI<Max>:	0.629669
+Other measures:
+  lfkNMI:	0.60455
+  NMI<Sum>:	0.669376
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.6.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.4.dat
+NMI<Max>:	0.649575
+Other measures:
+  lfkNMI:	0.610767
+  NMI<Sum>:	0.682638
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.35.dat
+NMI<Max>:	0.624072
+Other measures:
+  lfkNMI:	0.57975
+  NMI<Sum>:	0.647313
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.5.dat
+NMI<Max>:	0.633893
+Other measures:
+  lfkNMI:	0.607133
+  NMI<Sum>:	0.673073
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.8.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.6.dat
+NMI<Max>:	0.650473
+Other measures:
+  lfkNMI:	0.612744
+  NMI<Sum>:	0.685062
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.7.dat
+NMI<Max>:	0.591992
+Other measures:
+  lfkNMI:	0.540437
+  NMI<Sum>:	0.597884
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.4.dat
+NMI<Max>:	0.651659
+Other measures:
+  lfkNMI:	0.616444
+  NMI<Sum>:	0.687927
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.0.dat
+NMI<Max>:	0.642641
+Other measures:
+  lfkNMI:	0.611715
+  NMI<Sum>:	0.680368
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.1.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.3.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.9.dat
+NMI<Max>:	0.642927
+Other measures:
+  lfkNMI:	0.612056
+  NMI<Sum>:	0.680617
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.4.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.5.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.05.dat
+NMI<Max>:	0.634009
+Other measures:
+  lfkNMI:	0.607181
+  NMI<Sum>:	0.673175
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.3.dat
+NMI<Max>:	0.651044
+Other measures:
+  lfkNMI:	0.61488
+  NMI<Sum>:	0.686361
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.7.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.9.dat
+NMI<Max>:	0.615425
+Other measures:
+  lfkNMI:	0.596565
+  NMI<Sum>:	0.657361
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.75.dat
+NMI<Max>:	0.629493
+Other measures:
+  lfkNMI:	0.604467
+  NMI<Sum>:	0.669211
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.0.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.75.dat
+NMI<Max>:	0.651123
+Other measures:
+  lfkNMI:	0.614433
+  NMI<Sum>:	0.686172
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.85.dat
+NMI<Max>:	0.618509
+Other measures:
+  lfkNMI:	0.598607
+  NMI<Sum>:	0.660029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.75.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.3.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.6.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.3.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.65.dat
+NMI<Max>:	0.633893
+Other measures:
+  lfkNMI:	0.607133
+  NMI<Sum>:	0.673073
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.2.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.35.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.2.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.2.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_1.0.dat
+NMI<Max>:	0.61144
+Other measures:
+  lfkNMI:	0.592623
+  NMI<Sum>:	0.654398
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.75.dat
+NMI<Max>:	0.641179
+Other measures:
+  lfkNMI:	0.611024
+  NMI<Sum>:	0.679197
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.25.dat
+NMI<Max>:	0.637123
+Other measures:
+  lfkNMI:	0.591138
+  NMI<Sum>:	0.663625
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.5.dat
+NMI<Max>:	0.633037
+Other measures:
+  lfkNMI:	0.592564
+  NMI<Sum>:	0.660645
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.6.dat
+NMI<Max>:	0.633893
+Other measures:
+  lfkNMI:	0.607133
+  NMI<Sum>:	0.673073
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.55.dat
+NMI<Max>:	0.651671
+Other measures:
+  lfkNMI:	0.616484
+  NMI<Sum>:	0.687967
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.05.dat
+NMI<Max>:	0.651641
+Other measures:
+  lfkNMI:	0.616363
+  NMI<Sum>:	0.687877
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.1.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.35.dat
+NMI<Max>:	0.00602467
+Other measures:
+  lfkNMI:	0.0175116
+  NMI<Sum>:	0.00991082
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.05.dat
+NMI<Max>:	0.642765
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.680478
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.25.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.7.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.45.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.15.dat
+NMI<Max>:	0.641038
+Other measures:
+  lfkNMI:	0.610932
+  NMI<Sum>:	0.679097
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.85.dat
+NMI<Max>:	0.405869
+Other measures:
+  lfkNMI:	0.374213
+  NMI<Sum>:	0.446493
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.75.dat
+NMI<Max>:	0.650532
+Other measures:
+  lfkNMI:	0.616791
+  NMI<Sum>:	0.68752
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.35.dat
+NMI<Max>:	0.634009
+Other measures:
+  lfkNMI:	0.607181
+  NMI<Sum>:	0.673175
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.2.dat
+NMI<Max>:	0.649602
+Other measures:
+  lfkNMI:	0.610321
+  NMI<Sum>:	0.682979
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.6.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.15.dat
+NMI<Max>:	0.637082
+Other measures:
+  lfkNMI:	0.608794
+  NMI<Sum>:	0.675752
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.8.dat
+NMI<Max>:	0.651914
+Other measures:
+  lfkNMI:	0.617014
+  NMI<Sum>:	0.688323
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.25.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.95.dat
+NMI<Max>:	0.641377
+Other measures:
+  lfkNMI:	0.611357
+  NMI<Sum>:	0.679398
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.8.dat
+NMI<Max>:	0.642765
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.680478
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.55.dat
+NMI<Max>:	0.637096
+Other measures:
+  lfkNMI:	0.60884
+  NMI<Sum>:	0.675767
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.8.dat
+NMI<Max>:	0.644119
+Other measures:
+  lfkNMI:	0.603334
+  NMI<Sum>:	0.674288
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.85.dat
+NMI<Max>:	0.615425
+Other measures:
+  lfkNMI:	0.596565
+  NMI<Sum>:	0.657361
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.95.dat
+NMI<Max>:	0.618509
+Other measures:
+  lfkNMI:	0.598607
+  NMI<Sum>:	0.660029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.5.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.4.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.55.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.5.dat
+NMI<Max>:	0.642641
+Other measures:
+  lfkNMI:	0.611715
+  NMI<Sum>:	0.680368
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.75.dat
+NMI<Max>:	0.637218
+Other measures:
+  lfkNMI:	0.608891
+  NMI<Sum>:	0.675875
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.25.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.25.dat
+NMI<Max>:	0.642765
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.680478
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.95.dat
+NMI<Max>:	0.650548
+Other measures:
+  lfkNMI:	0.616817
+  NMI<Sum>:	0.687561
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.1.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.75.dat
+NMI<Max>:	0.651974
+Other measures:
+  lfkNMI:	0.617319
+  NMI<Sum>:	0.688586
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.0.dat
+NMI<Max>:	0.625249
+Other measures:
+  lfkNMI:	0.602361
+  NMI<Sum>:	0.665622
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.9.dat
+NMI<Max>:	0.621986
+Other measures:
+  lfkNMI:	0.600466
+  NMI<Sum>:	0.662929
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.1.dat
+NMI<Max>:	0.651641
+Other measures:
+  lfkNMI:	0.616363
+  NMI<Sum>:	0.687877
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.85.dat
+NMI<Max>:	0.650548
+Other measures:
+  lfkNMI:	0.616817
+  NMI<Sum>:	0.687561
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.9.dat
+NMI<Max>:	0.651954
+Other measures:
+  lfkNMI:	0.617076
+  NMI<Sum>:	0.688412
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.6.dat
+NMI<Max>:	0.295574
+Other measures:
+  lfkNMI:	0.334999
+  NMI<Sum>:	0.349398
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.9.dat
+NMI<Max>:	0.637379
+Other measures:
+  lfkNMI:	0.60918
+  NMI<Sum>:	0.676015
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.85.dat
+NMI<Max>:	0.641341
+Other measures:
+  lfkNMI:	0.611314
+  NMI<Sum>:	0.679336
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.4.dat
+NMI<Max>:	0.00549648
+Other measures:
+  lfkNMI:	0.0138807
+  NMI<Sum>:	0.00878735
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.5.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.9.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.3.dat
+NMI<Max>:	0.634009
+Other measures:
+  lfkNMI:	0.607181
+  NMI<Sum>:	0.673175
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.75.dat
+NMI<Max>:	0.648426
+Other measures:
+  lfkNMI:	0.61577
+  NMI<Sum>:	0.685719
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.6.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.9.dat
+NMI<Max>:	0.652001
+Other measures:
+  lfkNMI:	0.617385
+  NMI<Sum>:	0.688667
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.7.dat
+NMI<Max>:	0.651821
+Other measures:
+  lfkNMI:	0.616766
+  NMI<Sum>:	0.688114
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.75.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.2.dat
+NMI<Max>:	0.629493
+Other measures:
+  lfkNMI:	0.604467
+  NMI<Sum>:	0.669211
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.65.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.2.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.25.dat
+NMI<Max>:	0.634009
+Other measures:
+  lfkNMI:	0.607181
+  NMI<Sum>:	0.673175
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.25.dat
+NMI<Max>:	0.641038
+Other measures:
+  lfkNMI:	0.610932
+  NMI<Sum>:	0.679097
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.15.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.95.dat
+NMI<Max>:	0.644651
+Other measures:
+  lfkNMI:	0.604179
+  NMI<Sum>:	0.675384
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.8.dat
+NMI<Max>:	0.641179
+Other measures:
+  lfkNMI:	0.611024
+  NMI<Sum>:	0.679197
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.55.dat
+NMI<Max>:	0.625249
+Other measures:
+  lfkNMI:	0.602361
+  NMI<Sum>:	0.665622
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.55.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.85.dat
+NMI<Max>:	0.621986
+Other measures:
+  lfkNMI:	0.600466
+  NMI<Sum>:	0.662929
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.75.dat
+NMI<Max>:	0.651922
+Other measures:
+  lfkNMI:	0.615987
+  NMI<Sum>:	0.687794
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.55.dat
+NMI<Max>:	0.61834
+Other measures:
+  lfkNMI:	0.598309
+  NMI<Sum>:	0.65986
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.4.dat
+NMI<Max>:	0.357086
+Other measures:
+  lfkNMI:	0.390141
+  NMI<Sum>:	0.408153
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_1.0.dat
+NMI<Max>:	0.620332
+Other measures:
+  lfkNMI:	0.597051
+  NMI<Sum>:	0.661852
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.45.dat
+NMI<Max>:	0.642641
+Other measures:
+  lfkNMI:	0.611715
+  NMI<Sum>:	0.680368
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.05.dat
+NMI<Max>:	0.641038
+Other measures:
+  lfkNMI:	0.610932
+  NMI<Sum>:	0.679097
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.55.dat
+NMI<Max>:	0.646753
+Other measures:
+  lfkNMI:	0.605516
+  NMI<Sum>:	0.677461
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.65.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.0.dat
+NMI<Max>:	0.636959
+Other measures:
+  lfkNMI:	0.608744
+  NMI<Sum>:	0.675644
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.9.dat
+NMI<Max>:	0.650548
+Other measures:
+  lfkNMI:	0.616817
+  NMI<Sum>:	0.687561
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.2.dat
+NMI<Max>:	0.637082
+Other measures:
+  lfkNMI:	0.608794
+  NMI<Sum>:	0.675752
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.9.dat
+NMI<Max>:	0.648571
+Other measures:
+  lfkNMI:	0.615828
+  NMI<Sum>:	0.685828
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.85.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.3.dat
+NMI<Max>:	0.649305
+Other measures:
+  lfkNMI:	0.609567
+  NMI<Sum>:	0.682145
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.55.dat
+NMI<Max>:	0.00524906
+Other measures:
+  lfkNMI:	0.00986516
+  NMI<Sum>:	0.00775091
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.9.dat
+NMI<Max>:	0.649292
+Other measures:
+  lfkNMI:	0.611769
+  NMI<Sum>:	0.683239
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.75.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.95.dat
+NMI<Max>:	0.625423
+Other measures:
+  lfkNMI:	0.602674
+  NMI<Sum>:	0.6658
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.25.dat
+NMI<Max>:	0.00659695
+Other measures:
+  lfkNMI:	0.0208983
+  NMI<Sum>:	0.0110512
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.65.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.9.dat
+NMI<Max>:	0.579679
+Other measures:
+  lfkNMI:	0.517918
+  NMI<Sum>:	0.580297
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.15.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.35.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.5.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.3.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.95.dat
+NMI<Max>:	0.651199
+Other measures:
+  lfkNMI:	0.614763
+  NMI<Sum>:	0.686583
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.0.dat
+NMI<Max>:	0.650427
+Other measures:
+  lfkNMI:	0.616554
+  NMI<Sum>:	0.687304
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.55.dat
+NMI<Max>:	0.648426
+Other measures:
+  lfkNMI:	0.61577
+  NMI<Sum>:	0.685719
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.9.dat
+NMI<Max>:	0.625411
+Other measures:
+  lfkNMI:	0.602651
+  NMI<Sum>:	0.665763
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.25.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.6.dat
+NMI<Max>:	0.641091
+Other measures:
+  lfkNMI:	0.611016
+  NMI<Sum>:	0.679148
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.7.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.85.dat
+NMI<Max>:	0.648426
+Other measures:
+  lfkNMI:	0.61577
+  NMI<Sum>:	0.685719
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.4.dat
+NMI<Max>:	0.623118
+Other measures:
+  lfkNMI:	0.578856
+  NMI<Sum>:	0.646189
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.65.dat
+NMI<Max>:	0.642641
+Other measures:
+  lfkNMI:	0.611715
+  NMI<Sum>:	0.680368
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.35.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_1.0.dat
+NMI<Max>:	0.609801
+Other measures:
+  lfkNMI:	0.591736
+  NMI<Sum>:	0.653058
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.2.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_1.0.dat
+NMI<Max>:	0.6203
+Other measures:
+  lfkNMI:	0.594938
+  NMI<Sum>:	0.660635
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.85.dat
+NMI<Max>:	0.634171
+Other measures:
+  lfkNMI:	0.60747
+  NMI<Sum>:	0.673315
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.65.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.25.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.05.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.15.dat
+NMI<Max>:	0.649602
+Other measures:
+  lfkNMI:	0.610321
+  NMI<Sum>:	0.682979
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.65.dat
+NMI<Max>:	0.647249
+Other measures:
+  lfkNMI:	0.615353
+  NMI<Sum>:	0.684743
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.45.dat
+NMI<Max>:	0.643269
+Other measures:
+  lfkNMI:	0.600517
+  NMI<Sum>:	0.672724
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.45.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.8.dat
+NMI<Max>:	0.392088
+Other measures:
+  lfkNMI:	0.366196
+  NMI<Sum>:	0.435871
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.0.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.05.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.7.dat
+NMI<Max>:	0.651924
+Other measures:
+  lfkNMI:	0.61715
+  NMI<Sum>:	0.688474
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.25.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.0.dat
+NMI<Max>:	0.298056
+Other measures:
+  lfkNMI:	0.364718
+  NMI<Sum>:	0.359586
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.3.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.05.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.5.dat
+NMI<Max>:	0.651152
+Other measures:
+  lfkNMI:	0.615238
+  NMI<Sum>:	0.68675
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.1.dat
+NMI<Max>:	0.645501
+Other measures:
+  lfkNMI:	0.601464
+  NMI<Sum>:	0.673851
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.05.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.35.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.3.dat
+NMI<Max>:	0.651641
+Other measures:
+  lfkNMI:	0.616363
+  NMI<Sum>:	0.687877
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.95.dat
+NMI<Max>:	0.648426
+Other measures:
+  lfkNMI:	0.61577
+  NMI<Sum>:	0.685719
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.6.dat
+NMI<Max>:	0.629669
+Other measures:
+  lfkNMI:	0.60455
+  NMI<Sum>:	0.669376
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_1.0.dat
+NMI<Max>:	0.621683
+Other measures:
+  lfkNMI:	0.59744
+  NMI<Sum>:	0.66285
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.25.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.5.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.35.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.2.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.85.dat
+NMI<Max>:	0.651985
+Other measures:
+  lfkNMI:	0.616129
+  NMI<Sum>:	0.687963
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_1.0.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.3.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.6.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.1.dat
+NMI<Max>:	0.634009
+Other measures:
+  lfkNMI:	0.607181
+  NMI<Sum>:	0.673175
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_1.0.dat
+NMI<Max>:	0.621346
+Other measures:
+  lfkNMI:	0.596537
+  NMI<Sum>:	0.662225
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_1.0.dat
+NMI<Max>:	0.60843
+Other measures:
+  lfkNMI:	0.590803
+  NMI<Sum>:	0.651897
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.4.dat
+NMI<Max>:	0.641216
+Other measures:
+  lfkNMI:	0.611067
+  NMI<Sum>:	0.679258
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.95.dat
+NMI<Max>:	0.651819
+Other measures:
+  lfkNMI:	0.617035
+  NMI<Sum>:	0.688315
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.2.dat
+NMI<Max>:	0.64525
+Other measures:
+  lfkNMI:	0.601118
+  NMI<Sum>:	0.673322
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.55.dat
+NMI<Max>:	0.650316
+Other measures:
+  lfkNMI:	0.612421
+  NMI<Sum>:	0.684696
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.5.dat
+NMI<Max>:	0.641091
+Other measures:
+  lfkNMI:	0.611016
+  NMI<Sum>:	0.679148
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.0.dat
+NMI<Max>:	0.00663602
+Other measures:
+  lfkNMI:	0.0210196
+  NMI<Sum>:	0.0111306
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.0.dat
+NMI<Max>:	0.648426
+Other measures:
+  lfkNMI:	0.61577
+  NMI<Sum>:	0.685719
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.9.dat
+NMI<Max>:	0.634171
+Other measures:
+  lfkNMI:	0.60747
+  NMI<Sum>:	0.673315
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.15.dat
+NMI<Max>:	0.651152
+Other measures:
+  lfkNMI:	0.615238
+  NMI<Sum>:	0.68675
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.05.dat
+NMI<Max>:	0.645501
+Other measures:
+  lfkNMI:	0.601464
+  NMI<Sum>:	0.673851
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.65.dat
+NMI<Max>:	0.647986
+Other measures:
+  lfkNMI:	0.607139
+  NMI<Sum>:	0.680111
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.15.dat
+NMI<Max>:	0.645501
+Other measures:
+  lfkNMI:	0.601464
+  NMI<Sum>:	0.673851
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.7.dat
+NMI<Max>:	0.650507
+Other measures:
+  lfkNMI:	0.616727
+  NMI<Sum>:	0.687466
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.85.dat
+NMI<Max>:	0.612707
+Other measures:
+  lfkNMI:	0.595182
+  NMI<Sum>:	0.655171
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.45.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.35.dat
+NMI<Max>:	0.376009
+Other measures:
+  lfkNMI:	0.394967
+  NMI<Sum>:	0.424109
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.55.dat
+NMI<Max>:	0.641229
+Other measures:
+  lfkNMI:	0.611079
+  NMI<Sum>:	0.67927
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.2.dat
+NMI<Max>:	0.651152
+Other measures:
+  lfkNMI:	0.615238
+  NMI<Sum>:	0.68675
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.15.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.35.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.95.dat
+NMI<Max>:	0.649144
+Other measures:
+  lfkNMI:	0.611753
+  NMI<Sum>:	0.683155
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.2.dat
+NMI<Max>:	0.312223
+Other measures:
+  lfkNMI:	0.370617
+  NMI<Sum>:	0.372649
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_1.0.dat
+NMI<Max>:	0.618299
+Other measures:
+  lfkNMI:	0.592105
+  NMI<Sum>:	0.657282
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.35.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.4.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.8.dat
+NMI<Max>:	0.65119
+Other measures:
+  lfkNMI:	0.614545
+  NMI<Sum>:	0.686315
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.1.dat
+NMI<Max>:	0.00657246
+Other measures:
+  lfkNMI:	0.0207221
+  NMI<Sum>:	0.0110124
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.0.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.1.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.85.dat
+NMI<Max>:	0.652001
+Other measures:
+  lfkNMI:	0.617385
+  NMI<Sum>:	0.688667
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.55.dat
+NMI<Max>:	0.629669
+Other measures:
+  lfkNMI:	0.60455
+  NMI<Sum>:	0.669376
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.55.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.7.dat
+NMI<Max>:	0.651688
+Other measures:
+  lfkNMI:	0.61534
+  NMI<Sum>:	0.687336
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.2.dat
+NMI<Max>:	0.641038
+Other measures:
+  lfkNMI:	0.610932
+  NMI<Sum>:	0.679097
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.3.dat
+NMI<Max>:	0.642765
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.680478
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.45.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.9.dat
+NMI<Max>:	0.618509
+Other measures:
+  lfkNMI:	0.598607
+  NMI<Sum>:	0.660029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_1.0.dat
+NMI<Max>:	0.62138
+Other measures:
+  lfkNMI:	0.597392
+  NMI<Sum>:	0.662661
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.05.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.85.dat
+NMI<Max>:	0.629654
+Other measures:
+  lfkNMI:	0.604757
+  NMI<Sum>:	0.669352
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.8.dat
+NMI<Max>:	0.629493
+Other measures:
+  lfkNMI:	0.604467
+  NMI<Sum>:	0.669211
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.4.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.3.dat
+NMI<Max>:	0.00611337
+Other measures:
+  lfkNMI:	0.0179979
+  NMI<Sum>:	0.0101017
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_1.0.dat
+NMI<Max>:	0.621683
+Other measures:
+  lfkNMI:	0.59744
+  NMI<Sum>:	0.66285
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.05.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.8.dat
+NMI<Max>:	0.637218
+Other measures:
+  lfkNMI:	0.608891
+  NMI<Sum>:	0.675875
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.4.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.7.dat
+NMI<Max>:	0.640913
+Other measures:
+  lfkNMI:	0.61088
+  NMI<Sum>:	0.678987
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.1.dat
+NMI<Max>:	0.642765
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.680478
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.05.dat
+NMI<Max>:	0.293938
+Other measures:
+  lfkNMI:	0.362514
+  NMI<Sum>:	0.353024
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.7.dat
+NMI<Max>:	0.629804
+Other measures:
+  lfkNMI:	0.604644
+  NMI<Sum>:	0.669495
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.5.dat
+NMI<Max>:	0.558063
+Other measures:
+  lfkNMI:	0.500832
+  NMI<Sum>:	0.565693
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_1.0.dat
+NMI<Max>:	0.61935
+Other measures:
+  lfkNMI:	0.596572
+  NMI<Sum>:	0.661045
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.0.dat
+NMI<Max>:	0.650015
+Other measures:
+  lfkNMI:	0.611719
+  NMI<Sum>:	0.684055
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.6.dat
+NMI<Max>:	0.647249
+Other measures:
+  lfkNMI:	0.615353
+  NMI<Sum>:	0.684743
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.2.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.95.dat
+NMI<Max>:	0.584858
+Other measures:
+  lfkNMI:	0.5263
+  NMI<Sum>:	0.58823
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.7.dat
+NMI<Max>:	0.650696
+Other measures:
+  lfkNMI:	0.613447
+  NMI<Sum>:	0.685339
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.4.dat
+NMI<Max>:	0.648426
+Other measures:
+  lfkNMI:	0.61577
+  NMI<Sum>:	0.685719
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.75.dat
+NMI<Max>:	0.634009
+Other measures:
+  lfkNMI:	0.607181
+  NMI<Sum>:	0.673175
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.75.dat
+NMI<Max>:	0.282027
+Other measures:
+  lfkNMI:	0.276179
+  NMI<Sum>:	0.334275
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.95.dat
+NMI<Max>:	0.629654
+Other measures:
+  lfkNMI:	0.604757
+  NMI<Sum>:	0.669352
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.4.dat
+NMI<Max>:	0.637082
+Other measures:
+  lfkNMI:	0.608794
+  NMI<Sum>:	0.675752
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.8.dat
+NMI<Max>:	0.650532
+Other measures:
+  lfkNMI:	0.616791
+  NMI<Sum>:	0.68752
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.55.dat
+NMI<Max>:	0.651163
+Other measures:
+  lfkNMI:	0.615277
+  NMI<Sum>:	0.68679
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.85.dat
+NMI<Max>:	0.644693
+Other measures:
+  lfkNMI:	0.604143
+  NMI<Sum>:	0.675304
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.2.dat
+NMI<Max>:	0.634009
+Other measures:
+  lfkNMI:	0.607181
+  NMI<Sum>:	0.673175
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.85_pruning_0.0.dat
+NMI<Max>:	0.618348
+Other measures:
+  lfkNMI:	0.598317
+  NMI<Sum>:	0.659888
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.3.dat
+NMI<Max>:	0.641038
+Other measures:
+  lfkNMI:	0.610932
+  NMI<Sum>:	0.679097
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.3.dat
+NMI<Max>:	0.637082
+Other measures:
+  lfkNMI:	0.608794
+  NMI<Sum>:	0.675752
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.2.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.65.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.1.dat
+NMI<Max>:	0.294988
+Other measures:
+  lfkNMI:	0.354295
+  NMI<Sum>:	0.353481
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.55.dat
+NMI<Max>:	0.642799
+Other measures:
+  lfkNMI:	0.611802
+  NMI<Sum>:	0.680516
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.4.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.45.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.2.dat
+NMI<Max>:	0.642765
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.680478
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.75.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.1.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.15.dat
+NMI<Max>:	0.258571
+Other measures:
+  lfkNMI:	0.351963
+  NMI<Sum>:	0.32402
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.25.dat
+NMI<Max>:	0.305102
+Other measures:
+  lfkNMI:	0.357444
+  NMI<Sum>:	0.361694
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.55.dat
+NMI<Max>:	0.602552
+Other measures:
+  lfkNMI:	0.538789
+  NMI<Sum>:	0.608164
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.8.dat
+NMI<Max>:	0.625249
+Other measures:
+  lfkNMI:	0.602361
+  NMI<Sum>:	0.665622
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.35.dat
+NMI<Max>:	0.642765
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.680478
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.95.dat
+NMI<Max>:	0.651851
+Other measures:
+  lfkNMI:	0.617321
+  NMI<Sum>:	0.68853
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.05.dat
+NMI<Max>:	0.649602
+Other measures:
+  lfkNMI:	0.610321
+  NMI<Sum>:	0.682979
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.65.dat
+NMI<Max>:	0.636891
+Other measures:
+  lfkNMI:	0.608701
+  NMI<Sum>:	0.675593
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_1.0.dat
+NMI<Max>:	0.620812
+Other measures:
+  lfkNMI:	0.597238
+  NMI<Sum>:	0.662197
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.75.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.6.dat
+NMI<Max>:	0.642641
+Other measures:
+  lfkNMI:	0.611715
+  NMI<Sum>:	0.680368
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.1.dat
+NMI<Max>:	0.629669
+Other measures:
+  lfkNMI:	0.60455
+  NMI<Sum>:	0.669376
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.85.dat
+NMI<Max>:	0.651954
+Other measures:
+  lfkNMI:	0.617076
+  NMI<Sum>:	0.688412
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.8.dat
+NMI<Max>:	0.651922
+Other measures:
+  lfkNMI:	0.615987
+  NMI<Sum>:	0.687794
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.15.dat
+NMI<Max>:	0.629493
+Other measures:
+  lfkNMI:	0.604467
+  NMI<Sum>:	0.669211
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.85.dat
+NMI<Max>:	0.625274
+Other measures:
+  lfkNMI:	0.602554
+  NMI<Sum>:	0.66564
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_1.0_pruning_0.45.dat
+NMI<Max>:	0.606421
+Other measures:
+  lfkNMI:	0.589848
+  NMI<Sum>:	0.650272
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.15.dat
+NMI<Max>:	0.642765
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.680478
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.65.dat
+NMI<Max>:	0.641091
+Other measures:
+  lfkNMI:	0.611016
+  NMI<Sum>:	0.679148
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.85.dat
+NMI<Max>:	0.651311
+Other measures:
+  lfkNMI:	0.614776
+  NMI<Sum>:	0.686616
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.3_pruning_0.45.dat
+NMI<Max>:	0.651659
+Other measures:
+  lfkNMI:	0.616444
+  NMI<Sum>:	0.687927
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.95.dat
+NMI<Max>:	0.651842
+Other measures:
+  lfkNMI:	0.616089
+  NMI<Sum>:	0.687877
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.45.dat
+NMI<Max>:	0.625125
+Other measures:
+  lfkNMI:	0.602287
+  NMI<Sum>:	0.665535
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.65.dat
+NMI<Max>:	0.650473
+Other measures:
+  lfkNMI:	0.612744
+  NMI<Sum>:	0.685062
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.0.dat
+NMI<Max>:	0.65121
+Other measures:
+  lfkNMI:	0.615358
+  NMI<Sum>:	0.68689
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_1.0.dat
+NMI<Max>:	0.615106
+Other measures:
+  lfkNMI:	0.594507
+  NMI<Sum>:	0.657512
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.15.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.55.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.95.dat
+NMI<Max>:	0.612707
+Other measures:
+  lfkNMI:	0.595182
+  NMI<Sum>:	0.655171
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.75.dat
+NMI<Max>:	0.642765
+Other measures:
+  lfkNMI:	0.611767
+  NMI<Sum>:	0.680478
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.55.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.4.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.2.dat
+NMI<Max>:	0.00663616
+Other measures:
+  lfkNMI:	0.0211566
+  NMI<Sum>:	0.0111379
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.05.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.35.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.95.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.6.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.7.dat
+NMI<Max>:	0.634016
+Other measures:
+  lfkNMI:	0.607187
+  NMI<Sum>:	0.67318
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.15.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.5.dat
+NMI<Max>:	0.647249
+Other measures:
+  lfkNMI:	0.615353
+  NMI<Sum>:	0.684743
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.05_pruning_0.5.dat
+NMI<Max>:	0.00479164
+Other measures:
+  lfkNMI:	0.00942517
+  NMI<Sum>:	0.00712414
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.45.dat
+NMI<Max>:	0.633893
+Other measures:
+  lfkNMI:	0.607133
+  NMI<Sum>:	0.673073
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.0_pruning_0.65.dat
+NMI<Max>:	0
+Other measures:
+  lfkNMI:	0
+  NMI<Sum>:	0
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.05.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.05.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.5.dat
+NMI<Max>:	0.629669
+Other measures:
+  lfkNMI:	0.60455
+  NMI<Sum>:	0.669376
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.7.dat
+NMI<Max>:	0.648426
+Other measures:
+  lfkNMI:	0.61577
+  NMI<Sum>:	0.685719
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_0.15.dat
+NMI<Max>:	0.625113
+Other measures:
+  lfkNMI:	0.602264
+  NMI<Sum>:	0.665498
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.15_pruning_0.6.dat
+NMI<Max>:	0.64809
+Other measures:
+  lfkNMI:	0.607391
+  NMI<Sum>:	0.680285
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.4_pruning_0.65.dat
+NMI<Max>:	0.648576
+Other measures:
+  lfkNMI:	0.615842
+  NMI<Sum>:	0.685855
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.1.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.7.dat
+NMI<Max>:	0.647249
+Other measures:
+  lfkNMI:	0.615353
+  NMI<Sum>:	0.684743
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.55_pruning_0.9.dat
+NMI<Max>:	0.641341
+Other measures:
+  lfkNMI:	0.611314
+  NMI<Sum>:	0.679336
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_0.95.dat
+NMI<Max>:	0.634171
+Other measures:
+  lfkNMI:	0.60747
+  NMI<Sum>:	0.673315
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.15.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.2_pruning_0.25.dat
+NMI<Max>:	0.64953
+Other measures:
+  lfkNMI:	0.610121
+  NMI<Sum>:	0.682746
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.8.dat
+NMI<Max>:	0.648985
+Other measures:
+  lfkNMI:	0.611289
+  NMI<Sum>:	0.682634
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.9.dat
+NMI<Max>:	0.612707
+Other measures:
+  lfkNMI:	0.595182
+  NMI<Sum>:	0.655171
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.7_pruning_0.45.dat
+NMI<Max>:	0.629669
+Other measures:
+  lfkNMI:	0.60455
+  NMI<Sum>:	0.669376
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.9_pruning_0.35.dat
+NMI<Max>:	0.615263
+Other measures:
+  lfkNMI:	0.596276
+  NMI<Sum>:	0.657219
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.3.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.35.dat
+NMI<Max>:	0.637082
+Other measures:
+  lfkNMI:	0.608794
+  NMI<Sum>:	0.675752
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.4.dat
+NMI<Max>:	0.651152
+Other measures:
+  lfkNMI:	0.615238
+  NMI<Sum>:	0.68675
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.65_pruning_1.0.dat
+NMI<Max>:	0.616937
+Other measures:
+  lfkNMI:	0.595499
+  NMI<Sum>:	0.659076
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.5_pruning_0.95.dat
+NMI<Max>:	0.642927
+Other measures:
+  lfkNMI:	0.612056
+  NMI<Sum>:	0.680617
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.65.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_1.0.dat
+NMI<Max>:	0.621607
+Other measures:
+  lfkNMI:	0.597478
+  NMI<Sum>:	0.662865
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.55.dat
+NMI<Max>:	0.644364
+Other measures:
+  lfkNMI:	0.612574
+  NMI<Sum>:	0.681714
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.75_pruning_1.0.dat
+NMI<Max>:	0.612438
+Other measures:
+  lfkNMI:	0.593118
+  NMI<Sum>:	0.655164
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.6_pruning_0.7.dat
+NMI<Max>:	0.637096
+Other measures:
+  lfkNMI:	0.60884
+  NMI<Sum>:	0.675767
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.95_pruning_0.1.dat
+NMI<Max>:	0.612546
+Other measures:
+  lfkNMI:	0.594892
+  NMI<Sum>:	0.655029
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.3.dat
+NMI<Max>:	0.316579
+Other measures:
+  lfkNMI:	0.370838
+  NMI<Sum>:	0.375274
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.45_pruning_0.25.dat
+NMI<Max>:	0.644495
+Other measures:
+  lfkNMI:	0.612629
+  NMI<Sum>:	0.681831
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.75.dat
+NMI<Max>:	0.648893
+Other measures:
+  lfkNMI:	0.611136
+  NMI<Sum>:	0.682441
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.35_pruning_0.65.dat
+NMI<Max>:	0.650409
+Other measures:
+  lfkNMI:	0.61647
+  NMI<Sum>:	0.687253
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.8_pruning_0.55.dat
+NMI<Max>:	0.621825
+Other measures:
+  lfkNMI:	0.600176
+  NMI<Sum>:	0.662787
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.1_pruning_0.65.dat
+NMI<Max>:	0.616975
+Other measures:
+  lfkNMI:	0.562239
+  NMI<Sum>:	0.631908
+/home/rk2tcpl/benchmarkDataSet/special2/network_spliter_100_algo_louvain_final_bf_0.25_pruning_0.35.dat
+NMI<Max>:	0.651152
+Other measures:
+  lfkNMI:	0.615238
+  NMI<Sum>:	0.68675
